@@ -1,0 +1,20 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "active-win": "^8.1.0",
+    "mouse-event": "^1.0.5",
+    "node-global-key-listener": "^0.1.1",
+    "node-mouse": "^0.0.2",
+    "nodemailer": "^6.9.5",
+    "screenshot-desktop": "^1.15.0",
+    "util": "^0.12.5"
+  }
+}
